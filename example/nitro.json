@@ -1,0 +1,11 @@
+{
+  "cxxNamespace": ["example"],
+  "ios": {
+    "iosModulename": "NitroExample"
+  },
+  "android": {
+    "androidNamespace": ["example"],
+    "androidCxxLibName": "NitroExample"
+  },
+  "autolinking": {}
+}
